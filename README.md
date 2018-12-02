@@ -1,2 +1,0 @@
-# Rutcl
-Created with CodeSandbox
